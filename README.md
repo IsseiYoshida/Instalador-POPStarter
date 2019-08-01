@@ -1,31 +1,5 @@
 # Instalador POPStarter v1.4.5
 
-## [1.4.5.0] - 2019-07-10
-
-### Adicionado
-
-- Ajustar tamanho do Instalador POPStarter, arrastando as bordas.
-
-- Maximizar o Instalador POPStarter.
-
-### Consertado
-
-- Auto-ajuste resolução da Tela menor que 1280x720, resolução abaixo de 1280x720 faz os botões desaparecerem ou todo o Design de Interfaces ficar desalinhada.
-
-- Bug no icone do Instalador POPStarter.
-
-----------------------------------------------------------
-
-Nota!: Para envia os arquivos no Modo PS2 IP Address
-
-é necessário abrir o "hdl_dump_086_svr_086.elf" no PS2 antes de usar.
-
-DOWNLOAD:
-
-https://github.com/IsseiYoshida/Instalador-POPStarter/blob/master/hdl_dump_086_svr_086.elf
-
-----------------------------------------------------------
-
 Instalador POPStarter é um programa utilitário, feito para facilitar a instalação e configuração do emulador “POPStarter” .
 
 O que ele faz:
@@ -55,3 +29,31 @@ O que ele faz:
 -  Corrige Automáticamente CUE com Erros ou caminhos errados.
 
 ----------------------------------------------------------
+
+
+
+# Instalador POPStarter v1.4.5
+
+## [1.4.5.0] - 2019-07-10
+
+### Adicionado
+
+- Ajustar tamanho do Instalador POPStarter, arrastando as bordas.
+
+- Maximizar o Instalador POPStarter.
+
+### Consertado
+
+- Auto-ajuste resolução da Tela menor que 1280x720, resolução abaixo de 1280x720 faz os botões desaparecerem ou todo o Design de Interfaces ficar desalinhada.
+
+- Bug no icone do Instalador POPStarter.
+
+----------------------------------------------------------
+
+Nota!: Para envia os arquivos no Modo PS2 IP Address
+
+é necessário abrir o "hdl_dump_086_svr_086.elf" no PS2 antes de usar.
+
+DOWNLOAD:
+
+https://github.com/IsseiYoshida/Instalador-POPStarter/blob/master/hdl_dump_086_svr_086.elf
