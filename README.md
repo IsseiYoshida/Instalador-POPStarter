@@ -22,11 +22,11 @@ Nota!: Para envia os arquivos no Modo PS2 IP Address
 
 DOWNLOAD:
 
-https://bitbucket.org/IsseiHyoudou/instalador_popstarter/
+https://github.com/IsseiYoshida/Instalador-POPStarter/blob/master/hdl_dump_086_svr_086.elf
 
 ----------------------------------------------------------
 
-Instalador POPStarter é um programa utilitário, criado por Issei Hyoudou, feito para facilitar a instalação e configuração do emulador “POPStarter” .
+Instalador POPStarter é um programa utilitário, feito para facilitar a instalação e configuração do emulador “POPStarter” .
 
 O que ele faz:
 
