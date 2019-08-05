@@ -20,13 +20,13 @@ O que ele faz:
 
 - Envia arquivos para HD Interno;
 
-- Configurar Automáticamente os Modos de Compatibilidade no CHEATS.TXT:
+- Configurar Automaticamente os Modos de Compatibilidade no CHEATS.TXT:
 
-- Configurar Automáticamente os VMC no VMCDIR.TXT:
+- Configurar Automaticamente os VMC no VMCDIR.TXT:
 
-- Configurar Automáticamente os VCDS de Multi discos no DISCS.TXT:
+- Configurar Automaticamente os VCDS de Multi discos no DISCS.TXT:
 
--  Corrige Automáticamente CUE com Erros ou caminhos errados.
+-  Corrige Automaticamente CUE com Erros ou caminhos errados.
 
 ----------------------------------------------------------
 
